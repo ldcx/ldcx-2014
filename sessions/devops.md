@@ -96,7 +96,7 @@
   - DCE has a start in the Hydra DAMs install documentation.
 
 
-## Code Reivew
+## Code Review
 - Code review can be a powerful tool. Simply having someone else look at your code is a starting point.
 - Pull requests can help with the logistics of this. This is a problem though if you only have one person assigned to a project.
 - Setting cultural expectations about this is important. Writing code is has parallels with the written word. The final result is _much_ better if peers and editors have had a chance to inform the creative process.
